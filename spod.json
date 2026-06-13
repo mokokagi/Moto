@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>ScoopCast - Fan Archive Collection</title>
+    <link>https://huggingface.co/datasets/Bnotchi/scpod</link>
+    <language>en-in</language>
+    <itunes:author>Fan Curated Backup</itunes:author>
+    <description>An unofficial fan archive bringing all ScoopCast 1-100 OPUS episodes back to a functional native feed interface! Subscribe manually in any podcatcher to track episodes perfectly ordered and dated chronologically by release timeline!</description>
+    <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/4/4b/Podcast-icon-square.jpg" />
+    <itunes:category text="Entertainment" />
+
+    <item>
+      <title>Episode 1: Marvel vs Black Adam Kaun Jeetegaa?</title>
+      <pubDate>Mon, 04 Jul 2022 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Marvel-vs-Black-Adam-Kaun-Jeetegaa？-The-ScoopCast-1-july-2022.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-1</guid>
+    </item>
+
+    <item>
+      <title>Episode 2: Samaritan Ka Villain Amitabh Bachchan hai!</title>
+      <pubDate>Mon, 01 Aug 2022 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Samaritan-Ka-Villain-Amitabh-Bachchan-hai!-The-ScoopCast-2-august-2022.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-2</guid>
+    </item>
+
+    <item>
+      <title>Episode 3: Tom Cruise Chaand Par Shooting Karne Wala hai!</title>
+      <pubDate>Mon, 08 Aug 2022 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Tom-Cruise-Chaand-Par-Shooting-Karne-Wala-hai!-The-ScoopCast-3-august-2022.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-3</guid>
+    </item>
+
+    <item>
+      <title>Episode 4: Captain America : Khiladi No.1</title>
+      <pubDate>Mon, 15 Aug 2022 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Captain-America-：-Khiladi-No.1-The-ScoopCast-4-august-2022.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-4</guid>
+    </item>
+
+    <item>
+      <title>Episode 5: DC January Mein Badi Announcement Karega</title>
+      <pubDate>Mon, 22 Aug 2022 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/DC-January-Mein-Badi-Announcement-Karega-Scoopcast-5-august-2022.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-5</guid>
+    </item>
+
+    <item>
+      <title>Episode 6: Voice Artists ke secrets with @yogiboltahai</title>
+      <pubDate>Mon, 05 Sep 2022 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Voice-Artists-ke-secrets-with-@yogiboltahai-ScoopCast-6-september-2022.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-6</guid>
+    </item>
+
+    <item>
+      <title>Episode 7: Brahmastra or Marvel dono ne aag laga rakhi hai!</title>
+      <pubDate>Mon, 12 Sep 2022 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Brahmastra-or-Marvel-dono-ne-aag-laga-rakhi-hai!-ScoopCast-7-september-2022.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-7</guid>
+    </item>
+
+    <item>
+      <title>Episode 8: Ayan Mukerji hamari fan theories use karne waale hai Brahmastra Part 2: Dev ke liye</title>
+      <pubDate>Mon, 19 Sep 2022 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Ayan-Mukerji-hamari-fan-theories-use-karne-waale-hai-Brahmastra-Part-2：Dev-ke-liye-The-ScoopCast-8-september-2022.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-8</guid>
+    </item>
+
+    <item>
+      <title>Episode 9: Black Adam vs Justice League vs Superman vs ScoopCast</title>
+      <pubDate>Mon, 26 Sep 2022 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Black-Adam-vs-Justice-League-vs-Superman-vs-ScoopCast-9-september-2022.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-9</guid>
+    </item>
+
+    <item>
+      <title>Episode 10: Deadpool 3 Announcement was surprising</title>
+      <pubDate>Mon, 03 Oct 2022 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Deadpool-3-Announcement-was-surprising-The-ScoopCast-10-october-2022.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-10</guid>
+    </item>
+
+    <item>
+      <title>Episode 11: Galti VFX Team ki nahi hai! Adipurush</title>
+      <pubDate>Mon, 10 Oct 2022 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Galti-VFX-Team-ki-nahi-hai!-Adipurush-ScoopCast-11-october-2022.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-11</guid>
+    </item>
+
+    <item>
+      <title>Episode 12: VFX Artist Reacts to Adipurush &amp; Brahmastra VFX CGI</title>
+      <pubDate>Mon, 17 Oct 2022 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/VFX-Artist-Reacts-to-Adipurush-&amp;-Brahmastra-VFX⧸CGI-ScoopCast-12-october-2022.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-12</guid>
+    </item>
+
+    <item>
+      <title>Episode 13: Marvel Movies Delayed, Good or Bad for the community?</title>
+      <pubDate>Mon, 24 Oct 2022 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Marvel-Movies-Delayed,-Good-or-Bad-for-the-community？-ScoopCast-13-october-2022.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-13</guid>
+    </item>
+
+    <item>
+      <title>Episode 14: MARVEL vs DC Ant-Man, Black Adam, HOTD &amp; Live Pop Culture Discussion</title>
+      <pubDate>Mon, 31 Oct 2022 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/MARVEL-vs-DC-Ant-Man,-Black-Adam,-HOTD-&amp;-Live-Pop-Culture-Discussion-ScoopCast-14-october-2022.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-14</guid>
+    </item>
+
+    <item>
+      <title>Episode 15: Henry Cavill ne Superman ke liya sab kuch tyaaag diya</title>
+      <pubDate>Mon, 07 Nov 2022 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Henry-Cavill-ne-Superman-ke-liya-sab-kuch-tyaaag-diya-ScoopCast-15-november-2022.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-15</guid>
+    </item>
+
+    <item>
+      <title>Episode 16: BLACK ADAM is Banned</title>
+      <pubDate>Mon, 14 Nov 2022 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/BLACK-ADAM-is-Banned-ScoopCast-16-november-2022.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-16</guid>
+    </item>
+
+    <item>
+      <title>Episode 17: A New Ruler of Wakanda</title>
+      <pubDate>Mon, 21 Nov 2022 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/A-New-Ruler-of-Wakanda-ScoopCast-17-november-2022.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-17</guid>
+    </item>
+
+    <item>
+      <title>Episode 18: Spider-Man is Back, Drishyam 2, Harry Potter &amp; Much More</title>
+      <pubDate>Mon, 28 Nov 2022 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Spider-Man-is-Back,-Drishyam-2,-Harry-Potter-&amp;-Much-More-ScoopCast-18-november-2022.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-18</guid>
+    </item>
+
+    <item>
+      <title>Episode 19: Thor Retirement, Bhediya, GOTG, Shang Chi 2 &amp; Much More</title>
+      <pubDate>Wed, 30 Nov 2022 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Thor-Retirement,-Bhediya,-GOTG,-Shang-Chi-2-&amp;-Much-More-ScoopCast-19-november-2022.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-19</guid>
+    </item>
+
+    <item>
+      <title>Episode 20: Deadpool Destroys Fox Universe to enter MCU</title>
+      <pubDate>Mon, 05 Dec 2022 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Deadpool-Destroys-Fox-Universe-to-enter-MCU-ScoopCast-20-december-2022.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-20</guid>
+    </item>
+
+    <item>
+      <title>Episode 21: Sorry Henry Cavill Sab Kuch Cancel Ho Gaya!</title>
+      <pubDate>Mon, 12 Dec 2022 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Sorry-Henry-Cavill-Sab-Kuch-Cancel-Ho-Gaya!-ScoopCast-21-december-2022.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-21</guid>
+    </item>
+
+    <item>
+      <title>Episode 22: AVATAR &amp; Comic Con Experience!</title>
+      <pubDate>Mon, 19 Dec 2022 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/AVATAR-&amp;-Comic-Con-Experience!-ScoopCast-22-december-2022.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-22</guid>
+    </item>
+
+    <item>
+      <title>Episode 23: Marvel Ke Trailers Khatre Mein Hai... Just Bcoz of Ana de Aamras</title>
+      <pubDate>Mon, 26 Dec 2022 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Marvel-Ke-Trailers-Khatre-Mein-Hai...-Just-Bcoz-of-Ana-de-Aamras-ScoopCast-23-december-2022.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-23</guid>
+    </item>
+
+    <item>
+      <title>Episode 24: Ye Ladki Sabse badi Marvel fan hai! Ft. One Dollar Productions</title>
+      <pubDate>Mon, 02 Jan 2023 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Ye-Ladki-Sabse-badi-Marvel-fan-hai!-Ft.-One-Dollar-Productions-ScoopCast-24-january-2023.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-24</guid>
+    </item>
+
+    <item>
+      <title>Episode 25: Iron Man finally wapas aa hi gaya</title>
+      <pubDate>Mon, 09 Jan 2023 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Iron-Man-finally-wapas-aa-hi-gaya-ScoopCast-25-january-2023.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-25</guid>
+    </item>
+
+    <item>
+      <title>Episode 26: Finally Hrithik Salman &amp; SRK Together</title>
+      <pubDate>Mon, 16 Jan 2023 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Finally-Hrithik-Salman-&amp;-SRK-Together-ScoopCast-26-january-2023.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-26</guid>
+    </item>
+
+    <item>
+      <title>Episode 27: Pathaan ki fake booking ka secret??</title>
+      <pubDate>Mon, 23 Jan 2023 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Pathaan-ki-fake-booking-ka-secret？？-ScoopCast-27-january-2023.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-27</guid>
+    </item>
+
+    <item>
+      <title>Episode 28: Pathaan is a Blockbuster</title>
+      <pubDate>Mon, 30 Jan 2023 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Pathaan-is-a-Blockbuster-ScoopCast-28-january-2023.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-28</guid>
+    </item>
+
+    <item>
+      <title>Episode 29: DC Ka FUTURE Bright hai, Pathaan 700 Crore</title>
+      <pubDate>Mon, 06 Feb 2023 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/DC-Ka-FUTURE-Bright-hai,-Pathaan-700-Crore-ScoopCast-29-february-2023.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-29</guid>
+    </item>
+
+    <item>
+      <title>Episode 30: Hum Mile Ant-Man ke Director se</title>
+      <pubDate>Mon, 13 Feb 2023 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Hum-Mile-Ant-Man-ke-Director-se-ScoopCast-30-february-2023.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-30</guid>
+    </item>
+
+    <item>
+      <title>Episode 31: Antman Quantumania Flop ya Superhit?</title>
+      <pubDate>Mon, 20 Feb 2023 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Antman-Quantumania-Flop-ya-Superhit？-[No-Spoiler!]-ScoopCast-31-february-2023.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-31</guid>
+    </item>
+
+    <item>
+      <title>Episode 32: Hera Pheri ki hype bohot zyada hai</title>
+      <pubDate>Mon, 27 Feb 2023 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Hera-Pheri-ki-hype-bohot-zyada-hai-ScoopCast-32-february-2023.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-32</guid>
+    </item>
+
+    <item>
+      <title>Episode 33: Jawan se leke Salaar tak sab ki sab HIT</title>
+      <pubDate>Mon, 06 Mar 2023 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Jawan-se-leke-Salaar-tak-sab-ki-sab-HIT-ScoopCast-33-march-2023.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-33</guid>
+    </item>
+
+    <item>
+      <title>Episode 34: Ranbir is a SUPERSTAR Hulk in Problem</title>
+      <pubDate>Mon, 13 Mar 2023 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Ranbir-is-a-SUPERSTAR-Hulk-in-Problem-ScoopCast-34-march-2023.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-34</guid>
+    </item>
+
+    <item>
+      <title>Episode 35: DC Fans theatre mein to jaao?</title>
+      <pubDate>Mon, 20 Mar 2023 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/DC-Fans-theatre-mein-to-jaao？-ScoopCast-35-march-2023.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-35</guid>
+    </item>
+
+    <item>
+      <title>Episode 36: 3 Idiots 2 aa rahi hai</title>
+      <pubDate>Mon, 27 Mar 2023 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/3-Idiots-2-aa-rahi-hai-ScoopCast-36-march-2023.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-36</guid>
+    </item>
+
+    <item>
+      <title>Episode 37: Adipurush mein kuch to Gadbad hai</title>
+      <pubDate>Mon, 03 Apr 2023 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Adipurush-mein-kuch-to-Gadbad-hai-ScoopCast-37-april-2023.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-37</guid>
+    </item>
+
+    <item>
+      <title>Episode 38: PUSHPA 2 vs WAR 2</title>
+      <pubDate>Mon, 10 Apr 2023 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/PUSHPA-2-vs-WAR-2-ScoopCast-38-april-2023.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-38</guid>
+    </item>
+
+    <item>
+      <title>Episode 39: Kabir Singh back in Action</title>
+      <pubDate>Mon, 17 Apr 2023 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Kabir-Singh-back-in-Action-ScoopCast-39-april-2023.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-39</guid>
+    </item>
+
+    <item>
+      <title>Episode 40: The Most Controversial Podcast Ever! Ft. @ShanPrasher</title>
+      <pubDate>Mon, 24 Apr 2023 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/The-Most-Controversial-Podcast-Ever!-Ft.-@ShanPrasher-ScoopCast-40-april-2023.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-40</guid>
+    </item>
+
+    <item>
+      <title>Episode 41: Farhad Samji Proved Everyone Wrong</title>
+      <pubDate>Wed, 26 Apr 2023 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Farhad-Samji-Proved-Everyone-Wrong-ScoopCast-41-april-2023.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-41</guid>
+    </item>
+
+    <item>
+      <title>Episode 42: Mota Bhai can BUY anything!</title>
+      <pubDate>Fri, 28 Apr 2023 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Mota-Bhai-can-BUY-anything!-ScoopCast-42-april-2023.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-42</guid>
+    </item>
+
+    <item>
+      <title>Episode 43: James Gunn ne dil jeet liya</title>
+      <pubDate>Mon, 01 May 2023 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/James-Gunn-ne-dil-jeet-liya-ScoopCast-43-may-2023.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-43</guid>
+    </item>
+
+    <item>
+      <title>Episode 44: Adipurush 1000 Crores Confirm?</title>
+      <pubDate>Mon, 08 May 2023 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Adipurush-1000-Crores-Confirm？-ScoopCast-44-may-2023.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-44</guid>
+    </item>
+
+    <item>
+      <title>Episode 45: Mission Impossible Copied Pathaan?</title>
+      <pubDate>Mon, 15 May 2023 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Mission-Impossible-Copied-Pathaan？-ScoopCast-45-may-2023.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-45</guid>
+    </item>
+
+    <item>
+      <title>Episode 46: ScoopCast Assemble in Mumbai</title>
+      <pubDate>Mon, 22 May 2023 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/ScoopCast-Assemble-in-Mumbai-ScoopCast-46-may-2023.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-46</guid>
+    </item>
+
+    <item>
+      <title>Episode 47: Marvel kitna delay karoge bhai?</title>
+      <pubDate>Mon, 05 Jun 2023 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Marvel-kitna-delay-karoge-bhai？-ScoopCast-47-june-2023.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-47</guid>
+    </item>
+
+    <item>
+      <title>Episode 48: Biggest Box Office Clash Ever</title>
+      <pubDate>Mon, 12 Jun 2023 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Biggest-Box-Office-Clash-Ever-ScoopCast-48-june-2023.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-48</guid>
+    </item>
+
+    <item>
+      <title>Episode 49: Adipurush Itni Acchi Hogi, Socha nahi tha</title>
+      <pubDate>Mon, 19 Jun 2023 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/resolve/main/Adipurush-Itni-Acchi-Hogi,-Socha-nahi-tha-ScoopCast-49-june-2023.opus" length="35000000" type="audio/ogg" />
+      <guid isPermaLink="false">SC-49</guid>
+    </item>
+
+    <item>
+      <title>Episode 50: Netflix &amp; Marvel Shocked Us</title>
+      <pubDate>Mon, 26 Jun 2023 10:00:00 GMT</pubDate>
+      <enclosure url="https://huggingface.co/datasets/Bnotchi/scpod/r
